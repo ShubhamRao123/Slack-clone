@@ -1,5 +1,5 @@
-# Link for slack clone
-Link : https://slack-clone-f74b2.web.app/
+# Project Link
+ https://slack-clone-f74b2.web.app/
 
 # Getting Started with Create React App and Redux
 
